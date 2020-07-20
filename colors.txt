@@ -4,4 +4,3 @@ green
 blue
 white
 purple
-white
